@@ -1,0 +1,9 @@
+# goal
+uint32 order
+---
+# result
+uint32 factorial
+---
+# feedback
+uint32 current_order
+uint32 current_factorial

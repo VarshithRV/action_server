@@ -1,0 +1,11 @@
+# goal
+uint32 order
+---
+
+# result
+bool completion
+uint32 result
+
+---
+# feedback
+uint32[] sequence
